@@ -1,1 +1,2 @@
 # dicegame
+Two players roll the dices in turns. While one player is rolling the dice, he can choose to hold or keep on rolling. If one of the two dices is one, the player loses the score he has earned in current rolling round. If both dices show the same number, the current player loses his entire score (all the scores he has earned in previous rolling rounds). The winning point is set to be 100, but user can change it to any number as he likes. 
